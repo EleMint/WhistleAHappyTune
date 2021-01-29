@@ -1,0 +1,4 @@
+client/node_modules
+proxy/node_modules
+
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "proxy server for Whistle A Happy Tune",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Dylan Schmidt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.6"
+  }
+}

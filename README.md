@@ -7,7 +7,7 @@ Website allowing users to search songs using the iTunes API. The app displays th
     cd WistleAHappyTune
 
 ## Running the client
-1. `cd` into the dir
+1. cd into the dir
     ```bash
     cd client
     ```
@@ -21,7 +21,7 @@ Website allowing users to search songs using the iTunes API. The app displays th
     ```
 
 ## Running the Proxy
-1. `cd` into the dir
+1. cd into the dir
     ```bash
     cd proxy
     ```
